@@ -1,0 +1,774 @@
+,state
+CA,1485
+NY,569
+VA,511
+TX,494
+MA,477
+IL,403
+WA,344
+NJ,310
+PA,284
+MD,238
+FL,218
+NC,217
+GA,188
+DC,179
+CO,144
+MI,137
+MO,121
+CT,121
+OH,114
+AZ,97
+MN,96
+United States,73
+CA 94087,57
+TN,41
+OR,40
+UT,39
+WI,39
+CA 94107 (South Of Market area),34
+IN,33
+CA 94105 (Financial District area),32
+VA 22102,31
+AL,29
+NY 10001 (Chelsea area),27
+AR 72712,22
+NY 10011 (Chelsea area),22
+NV,20
+OH 45201 (Mount Adams area),20
+KS,19
+CA 94103 (South Of Market area),19
+NY 10001,18
+Computer-or-internet,18
+WA 98104 (First Hill area),18
+CA 94066,17
+NY 10016 (Gramercy area),17
+WA 98101 (Downtown area),17
+VA 20190,17
+TX 75038,17
+PA 19103,17
+GA 30301 (Buckhead area),16
+SC,16
+RI,16
+CA 90245,15
+DE,15
+FL 33607,15
+NY 10504,14
+Remote,14
+MA 02109 (Central area),14
+IN 47201,14
+WA 98104,14
+GA 30328,13
+NY 10036,13
+NE,13
+NC 28255 (Wilmore area),12
+TX 78759 (Arboretum area),12
+CA 92009,12
+CA 95014,12
+OK,12
+ID,12
+PA 19355,12
+CA 94039,12
+IA,12
+NY 10022 (Midtown area),11
+LA,11
+CA 92618,11
+IL 60647,11
+AR,11
+VA 22209 (Radnor-Ft Myer Heights area),11
+IL 60606 (Loop area),10
+PA 19146 (Point Breeze area),10
+IL 60523,10
+TX 75201,10
+CA 92101,10
+NH,10
+KY,9
+NY 10016,9
+CO 80202 (Lodo area),9
+CA 95670,9
+VA 22031,9
+DC 20001 (Shaw area),9
+IL 60601 (Loop area),9
+CA 94085,9
+NC 28203 (Dilworth area),8
+TX 78758 (North Austin area),8
+WA 98004 (Downtown area),8
+FL 32819 (Florida Center area),8
+NY 10017,8
+CA 90064,8
+IL 62225,8
+GA 30301,8
+GA 30309 (Midtown area),8
+CA 94083,7
+TX 78731,7
+CA 90079,7
+CT 06156,7
+MI 48126,7
+CA 94304,7
+IL 60654 (Loop area),7
+CA 94301 (Professorville area),7
+AZ 85281,7
+CA 90067,7
+VA 22203,7
+NY 13441,7
+CA 94080,7
+CA 92725,7
+VA 20151,7
+NC 27615 (North area),7
+MN 55344,7
+OR 97124,7
+FL 33431,7
+DC 20319 (South West area),7
+CA 94063,6
+DE 19801,6
+CT 06902 (Downtown area),6
+GA 30005,6
+CO 80021,6
+CO 80202,6
+MA 02210 (South Boston area),6
+MD 21044,6
+TX 75019,6
+OH 43201 (Weinland Park area),6
+CA 94111 (Financial District area),6
+TX 75215,6
+CA 90048,6
+GA 30092,6
+OH 45201,6
+MI 48083,6
+NY 10017 (Midtown area),6
+MA 02298,6
+MN 55423,6
+NJ 07054,6
+MO 64108 (Crown Center area),6
+GA 30319,6
+FL 32825,6
+TX 78716,6
+Virginia,6
+CA 92626,5
+NJ 08854,5
+NY 10011,5
+ME,5
+NY 10022,5
+IL 60065,5
+VA 22310,5
+IL 60440,5
+MD 20701,5
+CA 91107,5
+DC 20006 (Foggy Bottom area),5
+NY 10261 (Murray Hill area),5
+NY 10007 (Financial District area),5
+VA 20147,5
+NY 10004,5
+CO 80401,5
+CA 94402,5
+WA 98109 (Westlake area),5
+TX 77042 (West Houston area),5
+IL 60143,5
+TX 75067,5
+MD 21244 (Howard Park area),5
+IL 60045,5
+CA 92121,5
+FL 33634,5
+VA 22202,5
+NY 10010 (Gramercy area),5
+NJ 07920,4
+DC 20003,4
+NY 10010,4
+NJ 07302 (Downtown area),4
+NC 27560,4
+DC 20036,4
+WA 98121 (Belltown area),4
+CA 91771,4
+GA 30303 (Five Points area),4
+NY 10018 (Clinton area),4
+CA 95131,4
+WA 98134 (Industrial Complex area),4
+IN 46204,4
+WA 98101,4
+CA 94086,4
+TX 78758,4
+OH 44125,4
+CA 94402 (Beresford area),4
+GA 30326 (Buckhead area),4
+CA 94104 (Financial District area),4
+VA 20191,4
+GA 30309,4
+UT 84123,4
+TN 37201,4
+DC 20003 (Capitol Hill area),4
+OH 43240,4
+TX 78701 (Downtown area),4
+MA 02116,4
+KY 40229,4
+OH 45701,4
+NM,4
+PA 15289,4
+IL 60606,4
+CA 94111,4
+CA 94065,4
+NY 10019 (Midtown area),4
+NJ 07030,4
+GA 30097,4
+NY 10179 (Midtown area),4
+New Jersey,4
+TX 75202 (City Center District area),4
+CA 94107,4
+CA 92602,4
+NY 10004 (Financial District area),4
+MD 21204,4
+CA 93940,4
+GA 30350,4
+OH 43201,4
+CA 95052,4
+UT 84101 (People's Freeway area),4
+PA 15206 (Larimer area),3
+HI,3
+IL 60638,3
+CA 92037,3
+CT 06902,3
+IL 60661 (Near West Side area),3
+MD 21075,3
+CA 95131 (North Valley area),3
+NY 10261,3
+TX 77070,3
+CT 06051,3
+AZ 85018 (Camelback East area),3
+CA 95616 (Central Davis area),3
+TN 37067,3
+CA 94550,3
+NJ 07826,3
+MO 63118,3
+GA 30004,3
+CA 90025,3
+WV 26501,3
+MN 55112,3
+NJ 07068,3
+PA 15108,3
+IL 60015,3
+OH 45420,3
+NY 10179,3
+IL 60563,3
+CA 95616,3
+WV,3
+CA 92134,3
+PA 19312,3
+GA 30022,3
+CA 95113,3
+FL 32801,3
+TX 73301 (St Edwards area),3
+VA 23502,3
+MA 02155,3
+MD 20814,3
+VA 20171,3
+MA 02109,3
+MA 02111 (Central area),3
+IL 60290 (Loop area),3
+IL 60661,3
+NC 27409,3
+MA 02101,3
+FL 33907,3
+TN 38103 (Downtown area),3
+VA 22314 (Southwest Quadrant area),3
+CA 94103,3
+VA 22202 (Aurora Highlands area),3
+MD 21203,3
+TX 75231 (Lake Highlands area),3
+TX 78730,3
+NY 10007,3
+WA 98134,3
+NJ 07059,3
+FL 33928,3
+NY 10112 (Midtown area),3
+CA 95134 (North San Jose area),3
+NC 28262 (University City North area),3
+CA 95035,3
+CA 94041,3
+VA 22108,3
+MA 02472,3
+PA 19406,3
+CA 90401,3
+MD 20852,3
+TX 78759,3
+NY 10038 (Financial District area),3
+CA 94105,3
+CA 94102,3
+NC 27709,3
+ND,3
+MO 63118 (Benton Park area),3
+NY 10014 (West Village area),3
+FL 33132 (Downtown area),3
+CO 80301,3
+TX 78682,3
+FL 33181,3
+TN 37831,3
+MI 48201 (Midtown area),3
+OH 45202 (Mount Adams area),3
+TX 77077 (West Houston area),3
+CA 91105,3
+NV 89113,3
+PA 19044,3
+VA 22203 (Bluemont area),3
+NC 27615,3
+MI 49512,3
+OH 45040,3
+MA 01730,3
+PA 19146,3
+NY 10041,3
+PA 19102 (City Center West area),2
+NJ 07977,2
+MN 55345,2
+TN 37830,2
+MN 55155 (Thomas Dale area),2
+VA 22030,2
+CT 06118,2
+NJ 07901,2
+MA 02142 (East Cambridge area),2
+TX 75024,2
+CT 06120 (Clay Arsenal area),2
+MD 21017,2
+PA 15289 (Central Business District area),2
+PA 15222 (Strip District area),2
+DC 20005 (Logan Circle area),2
+SC 29492,2
+CA 94538 (Irvington area),2
+IL 60631 (Norwood Park area),2
+TX 77056 (Galleria-Uptown area),2
+FL 33016,2
+OR 97205 (Northwest area),2
+MA 02116 (South End area),2
+CO 80222 (Southeastern Denver area),2
+VA 22209,2
+MD 20759,2
+TX 77042,2
+GA 30905,2
+NJ 07960,2
+IL 60603 (Loop area),2
+WA 98402 (Newtacoma area),2
+WA 98057,2
+CO 80027,2
+CA 90059,2
+FL 32819,2
+CA 91320-1799,2
+AL 35895,2
+OH 43215 (Downtown area),2
+CA 92130,2
+DC 20036 (Downtown area),2
+PR,2
+IL 60654,2
+DC 20016,2
+CA 94108 (Financial District area),2
+CA 92630,2
+FL 32223 (Julington Creek area),2
+OH 45840,2
+CO 80247,2
+UT 84111,2
+MA 02451,2
+MA 02494,2
+IL 60439,2
+FL 33605 (East Ybor area),2
+Hawaii,2
+NC 27265,2
+AL 35244,2
+DC 20002 (Capitol Hill area),2
+CA 92612,2
+NC 28262,2
+TX 78741 (Pleasant Valley area),2
+OR 97006 (Triple Creek area),2
+MD 20850,2
+MA 01801,2
+TX 75215 (South Boulevard-Park Row area),2
+CA 94102 (Downtown area),2
+MD 21046,2
+GA 30338,2
+ME 04609,2
+WA 98168,2
+TX 76102,2
+VA 22911,2
+AL 35233,2
+IL 60616,2
+PA 19428,2
+VA 22150,2
+CO 80113,2
+TX 76092,2
+GA 30327 (Buckhead area),2
+PA 15237,2
+CO 80010 (Delmar Parkway area),2
+TX 77002 (Downtown area),2
+VA 22903,2
+MT,2
+NY 10013 (Tribeca area),2
+VA 22101,2
+TX 78746,2
+CA 94301,2
+MO 63132,2
+PA 15201 (Central Lawrenceville area),2
+VA 20170,2
+NY 11201,2
+AL 35802,2
+WA 98194 (Downtown area),2
+NH 03801,2
+FL 33621 (MacDill AFB area),2
+MD 21203 (Old Town area),2
+CA 90405,2
+CA 95054,2
+NJ 07094,2
+CA 91360,2
+NY 10055 (Midtown area),2
+DC 20016 (AU-Tenleytown area),2
+MD 20653,2
+Work at Home,2
+MI 48105,2
+IL 60601,2
+FL 32826,2
+NY 10002 (Lower East Side area),2
+Idaho,2
+CA 95113 (Downtown area),2
+NY 10041 (Financial District area),2
+CO 80237 (Southeastern Denver area),2
+CA 94089,2
+AL 35223,2
+FL 32885,2
+NJ 07647,2
+FL 33602 (Downtown area),2
+CA 95032,2
+MN 55021,2
+DC 20577,2
+MN 55416,2
+UT 84098,2
+CA 95050,2
+OR 97008 (Greenway area),2
+CA 94583,2
+WI 53223 (Bradley Estates area),2
+TX 76244,2
+MO 64108,2
+CA 90808,2
+CA 90265,2
+VA 22201 (Lyon Village area),2
+CA 94404,2
+FL 33442,2
+CA 92663,2
+NM 87123,2
+NY 10003 (Greenwich Village area),2
+MI 48326,2
+TX 77803,2
+MI 48106,2
+TX 75240 (Far North area),2
+WI 53132,2
+MA 01810,2
+MA 02453,2
+CA 95819 (East Sacramento area),1
+VA 22401,1
+AL 36617 (Gorgas area),1
+CO 80020,1
+OH 43240 (Far North area),1
+OR 97204,1
+MA 02210,1
+NY 11245,1
+CT 06002,1
+FL 33601,1
+CA 95064,1
+TX 75075,1
+IN 46240,1
+TX 76115 (Southside area),1
+TX 76155 (Eastside area),1
+UT 84111 (Central City area),1
+MS 39529,1
+UT 84121,1
+CA 91767,1
+DC 20006,1
+GA 30602,1
+OH 44101 (Central area),1
+FL 33174,1
+MN 55437,1
+TX 78208 (Government Hill Alliance area),1
+NY 10282,1
+NV 89135,1
+DC 20005,1
+FL 33039,1
+CA 94303,1
+DC 20001,1
+UT 84025,1
+TX 75231,1
+MD 20740,1
+TX 78701,1
+TX 78741,1
+TX 75093,1
+CO 80265 (LoDo area),1
+NJ 07302,1
+AZ 85018,1
+TX 75248 (Far North area),1
+NE 68526,1
+NY 10176 (Murray Hill area),1
+OR 97232 (Kerns area),1
+Washington State,1
+VA 20163,1
+CA 90027,1
+PA 19462,1
+OR 97701,1
+NJ 08512,1
+NY 10282 (Tribeca area),1
+MN 55123,1
+VA 24504,1
+TX 77046 (Montrose area),1
+NY 10014,1
+NC 28203,1
+OH 44685,1
+CA 94612,1
+GA 30063,1
+MA 02298 (Central area),1
+TX 77049,1
+CA 94104,1
+IN 46214,1
+CA 90232,1
+CA 94109,1
+NJ 07936,1
+MA 02131,1
+MA 02142,1
+PA 16801,1
+NE 68059,1
+TX 75235 (Love Field area),1
+MA 02215,1
+CA 92661,1
+MI 48009,1
+CA 91101,1
+VA 22107,1
+IL 60192,1
+PA 19002,1
+OH 43213 (Whitehall area),1
+IL 60290,1
+CO 80538,1
+VA 22180,1
+NY 12203 (Campus Area-University District area),1
+CA 94025,1
+VA 20101,1
+NC 28202 (Downtown Charlotte area),1
+FL 33646 (Downtown area),1
+TX 73344,1
+DC 20535 (Downtown area),1
+KS 66210,1
+TX 75254 (Far North area),1
+UT 84119,1
+MA 02458,1
+NC 28255,1
+NY 10005 (Financial District area),1
+FL 32746,1
+NJ 08540,1
+CA 95112 (Downtown area),1
+NY 11356,1
+WA 98004,1
+MD 20904,1
+NY 11514,1
+TX 78750,1
+CA 90230,1
+CA 90806,1
+MN 56401,1
+IL 60515,1
+IN 46845,1
+MN 55391,1
+MA 01702,1
+NY 10081 (Financial District area),1
+IL 60603,1
+MD 20708,1
+LA 70802,1
+MA 01040,1
+AR 72764,1
+MD 21702,1
+FL 33131,1
+CA 94806,1
+VA 23219 (City Center area),1
+VA 22134,1
+PA 18101,1
+OH 44114 (Downtown area),1
+WA 98103 (Green Lake - Wallingford area),1
+FL 33618,1
+TN 37203,1
+CA 94030,1
+TX 75001,1
+CA 92660,1
+LA 71105,1
+MI 48104,1
+DC 20009 (U Street Corridor area),1
+MA 02061,1
+CA 90001,1
+New Mexico,1
+IL 60611,1
+OR 97223,1
+CA 90015,1
+NV 89105,1
+IL 60607 (Near West Side area),1
+NY 13088,1
+GA 30093,1
+NY 11050,1
+DC 20022,1
+WA 98194,1
+NJ 07078,1
+CA 92008,1
+CA 94566,1
+NE 68102,1
+NC 28217 (Olde Whitehall area),1
+NJ 08103,1
+DC 20008 (Cleveland Park area),1
+VA 20166,1
+NY 10605,1
+CT 06925 (Waterside area),1
+NY 10032 (Washington Heights area),1
+MA 02421,1
+TX 75010,1
+AZ 85021 (North Mountain area),1
+CA 94306 (Barron Park area),1
+TX 77382,1
+MO 63105,1
+NJ 07932,1
+FL 32256,1
+GA 30341,1
+PA 19102,1
+VA 22003,1
+MA 02215 (Fenway-Kenmore area),1
+NY 12205,1
+CA 95066,1
+NY 10176,1
+IL 60638 (Clearing area),1
+TX 75206 (M Streets area),1
+UT 84020,1
+FL 33609 (Swann Estates area),1
+CA 94043,1
+NM 87110,1
+NY 10019,1
+TX 75039,1
+CA 94061,1
+DC 20420 (Downtown area),1
+WV 26301,1
+TX 75071,1
+UT 84043,1
+MA 01701,1
+VT 05001,1
+MA 02140 (North Cambridge area),1
+UT 84094,1
+MA 02026,1
+CA 92707,1
+CT 06340,1
+AL 35806,1
+UT 84056,1
+KY 40202 (Central Business District area),1
+IL 61603,1
+DC 20037 (Foggy Bottom area),1
+TX 75051,1
+WI 53702 (Capitol area),1
+MA 02139 (Area IV area),1
+TN 37214,1
+GA 30339,1
+TX 76104 (Southside area),1
+CT 06484,1
+GA 30363,1
+CA 91362,1
+IL 60620,1
+TX 77064,1
+MI 48226 (Downtown area),1
+CA 94108,1
+CA 95053,1
+WA 98402,1
+NC 27518,1
+PA 19147 (Wharton-Hawthorne-Bella Vista area),1
+MI 48439,1
+FL 32803 (Colonicaltown North area),1
+AZ 85021,1
+NJ 08057,1
+GA 30326,1
+GA 30329,1
+NH 03867,1
+CA 90266,1
+CO 80265,1
+NV 89434,1
+GA 30354 (Lakewood Heights-Southeastern area),1
+CA 95008,1
+CA 91203,1
+VA 22067,1
+VA 23238,1
+MD 20993,1
+FL 33716,1
+MD 21076,1
+TX 75252 (Far North area),1
+CT 06488,1
+MI 48167,1
+RI 02886,1
+Engineering-or-architecture,1
+VA 22308,1
+NY 10005,1
+NJ 07806,1
+NY 14623,1
+AZ 85054 (Desert View area),1
+MD 21001,1
+CA 92108,1
+CA 90292,1
+NC 28202,1
+CA 91436,1
+GA 30303,1
+TX 76115,1
+WA 99163,1
+CO 80221,1
+CO 80012 (Utah Park area),1
+PA 16066,1
+CT 06108,1
+NC 27713,1
+SC 29402,1
+IL 60604 (Loop area),1
+FL 33408,1
+NY 10038,1
+CO 80303,1
+CA 94010,1
+PA 15222,1
+NY 10119 (Chelsea area),1
+IL 60602 (Loop area),1
+NY 10104 (Midtown area),1
+KY 40202,1
+CA 94710,1
+NC 27402,1
+NJ 07080,1
+OH 45202,1
+IL 60073,1
+AZ 85002 (Central City area),1
+MA 02138 (West Cambridge area),1
+PA 18976,1
+VA 23230,1
+CA 94588,1
+CA 94062,1
+Louisiana,1
+AZ 85003 (Central City area),1
+AZ 85258 (North Scottsdale area),1
+CA 92688,1
+CA 93599,1
+OR 97321,1
+VA 22311 (Alexandria Wrest area),1
+CA 92110,1
+WA 98103,1
+WA 98516,1
+TX 78249,1
+Massachusetts,1
+VA 23168,1
+TX 75086,1
+DC 20201 (South West area),1
+OH 45249,1
+PA 19113,1
+MA 01938,1
+DC 20007 (Georgetown area),1
+AZ 85007 (Central City area),1
+MA 01824,1
+MD 21117,1
+ME 04102 (Rosemont area),1
+MI 48243 (Downtown area),1
+VA 20153,1
+MD 20742,1
+TX 76106 (Northside area),1
+DC 20535,1
+CA 90278,1
+AZ 85756,1
+ME 04092,1
+IA 50322,1
+MD 21244,1
+TX 78729,1
+MD 21228,1
+NE 68508,1
+TX 77041,1
+NN,1
+TX 78205 (Downtown area),1
+IL 60611 (Near North Side area),1
